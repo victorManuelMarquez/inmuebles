@@ -1,0 +1,34 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+    <servlet-name>RegistraUsuario</servlet-name>
+    <servlet-class>main.ar.com.codoacodo.servlet.RegistraUsuario</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>LoginUsuario</servlet-name>
+    <servlet-class>main.ar.com.codoacodo.servlet.LoginUsuario</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>UpdateEmpleado</servlet-name>
+    <servlet-class>main.ar.com.codoacodo.servlet.UpdateEmpleado</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>RegistraUsuario</servlet-name>
+    <url-pattern>/RegistraUsuario</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoginUsuario</servlet-name>
+    <url-pattern>/LoginUsuario</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateEmpleado</servlet-name>
+    <url-pattern>/UpdateEmpleado</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
