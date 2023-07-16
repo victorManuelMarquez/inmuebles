@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5b9d2a6-49a7-4218-b634-ffdd964cd463" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Start_Tomcat.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/controller/EmployeeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/controller/EmployeeDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/controller/GenericDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/controller/HouseDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/controller/HouseDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/controller/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/controller/UserDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/controller/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/db/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/db/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/model/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/model/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/servlet/LoginUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/servlet/RegistraUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/servlet/UpdateEmpleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ar/com/codoacodo/servlet/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/estilos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/editing-employee.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/employee.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/manager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resume-registration.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/welcome.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/work-station.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ar/com/codoacodo/TestEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ar/com/codoacodo/TestHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ar/com/codoacodo/TestUser.java" afterDir="false" />
-    </list>
+    <list default="true" id="d5b9d2a6-49a7-4218-b634-ffdd964cd463" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,9 +63,31 @@
       <option name="presentableId" value="Default" />
       <updated>1689219044965</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1689525279081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689525279082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
